@@ -28,5 +28,5 @@ A modern voice-enabled calculator built using React and MathJS. It supports basi
 
 ---
 ## Screenshot
-[!calculator](calculator.png)
+![calculator](calculator.png)
 
