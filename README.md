@@ -1,4 +1,4 @@
-# 🎙 Smart Voice Calculator
+#  Smart Voice Calculator
 
 A modern voice-enabled calculator built using React and MathJS. It supports basic operations, square roots, logarithms (base 10), and exponentiation via text or speech input.
 
